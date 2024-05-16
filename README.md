@@ -21,6 +21,7 @@ git clone https://github.com/AhmadAlSad1/CraftOS-Chest-Monitor.git
 Navigeer naar de gekloonde repository en voer het installatie script uit met het volgende commando:
 
 cd CraftOS-Chest-Monitor
+
 lua install.lua
 
 Dit script zal het chest_monitor.lua script downloaden, opslaan op de computer, een `startup.lua` bestand maken en de computer herstarten om de chest monitor automatisch te laten starten.
